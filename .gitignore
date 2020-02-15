@@ -1,0 +1,6 @@
+#User Specific Stuff
+.idea/workspace.xml
+.idea/vcs.xml
+
+#Ignore Class Files
+target/
